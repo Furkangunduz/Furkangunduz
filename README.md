@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Gündüz</h1>
 <h3 align="center">A passionate frontend developer from Turkiye. I am interested in developing websites, canvas games, ML and AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkangunduz&label=Profile%20views&color=0e75b6&style=flat" alt="furkangunduz" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
