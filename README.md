@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Gündüz</h1>
-<h3 align="center">A passionate frontend developer from Turkiye. I am interested in developing websites, canvas games, ML and AI.</h3>
+<h3 align="center">A passionate frontend developer from Turkey. I am interested in developing websites, canvas games, ML and AI.</h3>
 
 
 - 🌱 I’m currently learning **ReactJS**
