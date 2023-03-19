@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey. I am interested in developing websites, canvas games, ML and AI.</h3>
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 You can reach me at **furkan.gundz00@gmail.com**
 
