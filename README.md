@@ -11,12 +11,14 @@
 </br>
 
 <div>
+     <img align=top src="https://www.codewars.com/users/kralDragon/badges/large"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=Furkangunduz"/>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=furkangunduz&show_icons=true&locale=en&layout=compact"/>
 <div>
 
 </br>
 </br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
