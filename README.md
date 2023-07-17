@@ -1,37 +1,14 @@
 <h1 align="center">Hi 👋, I'm Furkan Gündüz</h1>
 <h3 align="center">A passionate frontend developer from Turkey. I am interested in developing websites, canvas games, ML and AI.</h3>
 
+<p align="center"> 🌱 I’m currently learning <strong>ThreeJS</strong></p>
+<p align="center"> 📫 You can reach me at  <strong>furkan.gundz00@gmail.com</strong></p>
 
-
-- 🌱 I’m currently learning **ThreeJS**
-
-- 📫 You can reach me at **furkan.gundz00@gmail.com**
-
-
-</br>
-</br>
-<div>
-
-<div align=center>
-  <a href='https://www.codewars.com/users/kralDragon'><img align=top src="https://www.codewars.com/users/kralDragon/badges/large"/></a>
-</div>
-
+<h2 align="center"><a href='https://www.codewars.com/users/kralDragon'><img align=top src="https://www.codewars.com/users/kralDragon/badges/large"/></a></h2>
 <br/>
-<br/>
-<br/>
-
 <div align=center>
-    <img align=top height=250px src="https://github-readme-stats.vercel.app/api?username=Furkangunduz"/>
-    <img align=top height=250px src="https://github-readme-stats.vercel.app/api/top-langs?username=furkangunduz&show_icons=true&locale=en&layout=compact"/>
-</div>
-
-</br>
-</br>
-
-
-
-<div align=center>
-     <h3>Languages and Tools:</h3>
+  <br />
+  <h3>Languages and Tools:</h3>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
      <a/>
