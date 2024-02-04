@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Gündüz</h1>
 <h3 align="center">A passionate frontend developer from Turkey. I am interested in developing websites, canvas games, ML and AI.</h3>
 
-<p align="center"> 🌱 I’m currently learning <strong>ThreeJS</strong></p>
+<p align="center"> 🌱 I’m currently learning <strong>NextJS</strong></p>
 <p align="center"> 📫 You can reach me at  <strong>furkan.gundz00@gmail.com</strong></p>
 
 <h2 align="center"><a href='https://www.codewars.com/users/kralDragon'><img align=top src="https://www.codewars.com/users/kralDragon/badges/large"/></a></h2>
