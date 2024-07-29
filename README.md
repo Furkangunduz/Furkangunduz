@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Gündüz</h1>
-<h3 align="center">A passionate frontend developer from Turkey. I am interested in developing websites, canvas games, ML and AI.</h3>
+<h3 align="center">A passionate Fullstack developer from Turkey.</h3>
 
 <p align="center"> 🌱 I’m currently learning <strong>NextJS</strong></p>
 <p align="center"> 📫 You can reach me at  <strong>furkan.gundz00@gmail.com</strong></p>
